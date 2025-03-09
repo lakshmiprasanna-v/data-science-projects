@@ -1,4 +1,5 @@
-📌 Analyzing Patterns in Bestselling Books Using Central Tendency
+**📌 Analyzing Patterns in Bestselling Books Using Central Tendency**
+
 🔹 Description
 This project explores common patterns in bestselling books by analyzing bestseller lists and reviews. Using statistical measures, we identify key characteristics that contribute to a book's success.
 
